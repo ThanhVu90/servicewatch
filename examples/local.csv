@@ -1,0 +1,4 @@
+# name,numeric IP,port
+service-desk,127.0.0.1,5080
+ai-assistant,127.0.0.1,5081
+maintenance,127.0.0.1,5082
